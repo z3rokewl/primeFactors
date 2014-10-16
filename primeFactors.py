@@ -15,7 +15,7 @@ def divider(big_number):
 
 
 def main():
-    print divider(600851475143)
+    print max(divider(600851475143))
     return 0
 
 if __name__ == '__main__':
